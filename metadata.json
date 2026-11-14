@@ -1,0 +1,6 @@
+{
+  "name": "Remix The Forgotten Frontier – NASA Space Apps 2026",
+  "description": "Interactive storytelling platform and 3D planetary atlas exploring humanity\u0027s discarded, retired, and historic hardware on the Moon and Mars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

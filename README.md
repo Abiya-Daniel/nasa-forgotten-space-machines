@@ -48,7 +48,7 @@ This project brings their stories together through an interactive platform featu
 
 ## 🌐 Explore the Project
 
-**Live Website:** [Add Website URL]
+**Live Website:** https://nasa-forgotten-space-machines.vercel.app/
 
 ## 📚 References
 
